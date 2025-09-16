@@ -1,11 +1,11 @@
-import { LinkProps, blurDataUrl } from '@/src/common-types';
+import { LinkProps } from '@/src/common-types';
 import { Button } from '@/src/components/button';
 import { Container } from '@/src/components/container';
 import { CustomLink } from '@/src/components/custom-link';
 import { TextInput } from '@/src/components/inputs/text-input';
 import { cn } from '@/src/utils/shadcn';
 import Image from 'next/image';
-import { FaCircleCheck, FaPhone } from 'react-icons/fa6';
+import { FaCircleCheck } from 'react-icons/fa6';
 
 const services: LinkProps[] = [
   {

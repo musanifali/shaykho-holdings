@@ -7,7 +7,6 @@ import { useStickyHeader } from '../../utils/use-sticky-header';
 import { cn } from '@/src/utils/shadcn';
 import { Navigation } from '../common/navigation';
 import {
-  FaArrowRight,
   FaArrowLeft,
   FaCartShopping,
   FaEnvelope,
