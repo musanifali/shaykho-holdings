@@ -4,7 +4,7 @@ import { menuItemsProps } from '../menu';
 export const headerData: HeaderProps = {
   contactInfo: {
     phone: '',
-    mail: 'info@example.com',
+    mail: 'info@shaykho.com',
     addresses: [
       'Model Town Extension, Lahore, Punjab, Pakistan',
       'Sector I-11, Islamabad, Pakistan',

@@ -61,7 +61,7 @@ export const footerSectionData: FooterSectionProps = {
       'Model Town Extension, Lahore, Punjab, Pakistan',
       'Sector I-11, Islamabad, Pakistan',
     ],
-    mails: ['info@example.com'],
+    mails: ['info@shaykho.com'],
     phoneNumbers: [],
   },
   columnThree: {

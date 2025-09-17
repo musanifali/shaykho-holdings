@@ -30,7 +30,7 @@ export const contactSectionData: ContactSectionProps = {
       'Model Town Extension, Lahore, Punjab, Pakistan',
       'Sector I-11, Islamabad, Pakistan',
     ],
-    mail: 'ijmnhhasan000@yourmail.com',
+    mail: 'info@shaykho.com',
     phone: '',
   },
 };

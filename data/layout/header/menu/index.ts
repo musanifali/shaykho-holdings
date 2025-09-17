@@ -6,69 +6,76 @@ export const menuItemsProps: HeaderProps['menuItems'] = [
     href: '/',
   },
   {
-    label: 'About',
-    href: '/about',
+    label: 'Team',
+    href: '/team',
   },
   {
-    title: 'Service',
-    subMenuItems: [
-      {
-        label: 'Service List',
-        href: '/services',
-      },
-      {
-        label: 'Service single',
-        href: '/services/single',
-      },
-    ],
+    label: 'Services',
+    href: '/services',
+    // Dropdown commented out - using direct link instead
+    // subMenuItems: [
+    //   {
+    //     label: 'Service List',
+    //     href: '/services',
+    //   },
+    //   {
+    //     label: 'Service single',
+    //     href: '/services/single',
+    //   },
+    // ],
   },
   {
-    title: 'Project',
-    subMenuItems: [
-      {
-        label: 'Project List',
-        href: '/project',
-      },
-      {
-        label: 'Project single',
-        href: '/project/single',
-      },
-    ],
+    label: 'Projects',
+    href: '/project',
+    // Dropdown commented out - using direct link instead
+    // subMenuItems: [
+    //   {
+    //     label: 'Project List',
+    //     href: '/project',
+    //   },
+    //   {
+    //     label: 'Project single',
+    //     href: '/project/single',
+    //   },
+    // ],
   },
   {
-    title: 'Blog',
-    subMenuItems: [
-      {
-        label: 'Blog List',
-        href: '/blog',
-      },
-      {
-        label: 'Blog single',
-        href: '/blog/single',
-      },
-    ],
+    label: 'Blog',
+    href: '/blog',
+    // Dropdown commented out - using direct link instead
+    // subMenuItems: [
+    //   {
+    //     label: 'Blog List',
+    //     href: '/blog',
+    //   },
+    //   {
+    //     label: 'Blog single',
+    //     href: '/blog/single',
+    //   },
+    // ],
   },
-  {
-    title: 'Pages',
-    subMenuItems: [
-      {
-        label: 'Testimonial',
-        href: '/testimonial',
-      },
-      {
-        label: 'Team',
-        href: '/team',
-      },
-      {
-        label: 'Pricing',
-        href: '/pricing',
-      },
-      {
-        label: 'FAQ',
-        href: '/faq',
-      },
-    ],
-  },
+  // Pages dropdown commented out
+  // {
+  //   title: 'Pages',
+  //   subMenuItems: [
+  //     {
+  //       label: 'Testimonial',
+  //       href: '/testimonial',
+  //     },
+  //     {
+  //       label: 'Team',
+  //       href: '/team',
+  //     },
+  //     {
+  //       label: 'Pricing',
+  //       href: '/pricing',
+  //     },
+  //     {
+  //       label: 'FAQ',
+  //       href: '/faq',
+  //     },
+  //   ],
+  // },
   {
     label: 'Contact',
     href: '/contact',

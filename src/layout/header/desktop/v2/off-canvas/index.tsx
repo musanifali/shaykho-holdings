@@ -60,7 +60,7 @@ const offCanvasProps: IOffCanvas = {
       'Sector I-11, Islamabad, Pakistan',
     ],
     phoneNumber: '',
-    mail: 'info@example.com',
+    mail: 'info@shaykho.com',
   },
   socialLinks: [
     {

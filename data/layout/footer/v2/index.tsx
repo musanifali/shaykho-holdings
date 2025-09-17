@@ -112,7 +112,7 @@ export const footerSectionData: FooterSectionProps = {
   columnFour: {
     title: 'Our Offices',
     phoneNumber: '',
-    mail: 'info@example.com',
+    mail: 'info@shaykho.com',
     locations: [
       'Model Town Extension, Lahore, Punjab, Pakistan',
       'Sector I-11, Islamabad, Pakistan',
