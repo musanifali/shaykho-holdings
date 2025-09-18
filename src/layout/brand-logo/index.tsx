@@ -8,9 +8,9 @@ export function BrandLogo() {
       <Image
         src="/assets/images/brand/logo-light2.png"
         alt="Shaykho Holdings Logo"
-        width={300}
-        height={80}
-        className="block h-[80px] w-auto dark:hidden"
+        width={200}
+        height={50}
+        className="block h-[50px] w-auto dark:hidden"
         priority
       />
 
@@ -18,9 +18,9 @@ export function BrandLogo() {
       <Image
         src="/assets/images/brand/logo-dark2.png"
         alt="Shaykho Holdings Logo"
-        width={300}
-        height={80}
-        className="hidden h-[80px] w-auto dark:block"
+        width={200}
+        height={50}
+        className="hidden h-[50px] w-auto dark:block"
         priority
       />
     </CustomLink>
